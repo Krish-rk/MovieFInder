@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo-app-reactJS/static/css/main.508f82d7.chunk.css",
-    "main.js": "/todo-app-reactJS/static/js/main.6d3b7e37.chunk.js",
-    "main.js.map": "/todo-app-reactJS/static/js/main.6d3b7e37.chunk.js.map",
-    "runtime~main.js": "/todo-app-reactJS/static/js/runtime~main.9ec112e0.js",
-    "runtime~main.js.map": "/todo-app-reactJS/static/js/runtime~main.9ec112e0.js.map",
-    "static/js/2.8f8fdab0.chunk.js": "/todo-app-reactJS/static/js/2.8f8fdab0.chunk.js",
-    "static/js/2.8f8fdab0.chunk.js.map": "/todo-app-reactJS/static/js/2.8f8fdab0.chunk.js.map",
-    "index.html": "/todo-app-reactJS/index.html",
-    "precache-manifest.7188147f5748226f5f50d749b7dc2c47.js": "/todo-app-reactJS/precache-manifest.7188147f5748226f5f50d749b7dc2c47.js",
-    "service-worker.js": "/todo-app-reactJS/service-worker.js",
-    "static/css/main.508f82d7.chunk.css.map": "/todo-app-reactJS/static/css/main.508f82d7.chunk.css.map"
+    "main.css": "/MovieFinder/static/css/main.508f82d7.chunk.css",
+    "main.js": "/MovieFinder/static/js/main.6d3b7e37.chunk.js",
+    "main.js.map": "/MovieFinder/static/js/main.6d3b7e37.chunk.js.map",
+    "runtime~main.js": "/MovieFinder/static/js/runtime~main.79820ce3.js",
+    "runtime~main.js.map": "/MovieFinder/static/js/runtime~main.79820ce3.js.map",
+    "static/js/2.a431c023.chunk.js": "/MovieFinder/static/js/2.a431c023.chunk.js",
+    "static/js/2.a431c023.chunk.js.map": "/MovieFinder/static/js/2.a431c023.chunk.js.map",
+    "index.html": "/MovieFinder/index.html",
+    "precache-manifest.c3f1891139cea7afa55959e7744a0c9e.js": "/MovieFinder/precache-manifest.c3f1891139cea7afa55959e7744a0c9e.js",
+    "service-worker.js": "/MovieFinder/service-worker.js",
+    "static/css/main.508f82d7.chunk.css.map": "/MovieFinder/static/css/main.508f82d7.chunk.css.map"
   }
 }
