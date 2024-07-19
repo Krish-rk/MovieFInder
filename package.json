@@ -1,8 +1,7 @@
-{
+{"homepage": "https://Krish-rk.github.io/MovieFinder",
   "name": "todo-me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmendoz1.github.io/todo-app-reactJS",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -11,11 +10,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+      "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+ "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+  
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,6 +33,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }
